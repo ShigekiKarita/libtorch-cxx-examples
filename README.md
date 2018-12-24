@@ -1,3 +1,5 @@
+**WARNING: this project is moved to https://github.com/ShigekiKarita/thxx**
+
 # libtorch C++ examples
 
 forked from https://github.com/goldsborough/examples/tree/cpp/cpp/mnist
